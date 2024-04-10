@@ -1,2 +1,2 @@
 hello martin 
-G ram
+Go ram
